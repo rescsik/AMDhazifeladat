@@ -1,0 +1,32 @@
+                          AMD Processzorok
+
+
+Athlon:
+200GE: 2 mag/ 4 szál, 3.2 GHz	
+220GE: 2 mag/ 4 szál, 3.4 GHz
+240GE: 2 mag/ 4 szál, 3.5 GHz
+Megjegyzés: 
+-	Fölösleges hozzá videókártya
+-	Csak házimozira használható
+
+AMD Ryzen 3: 
+2200G: 4 mag/ 4 szál, 3.5/3.7 GHz
+-	Kölcség kímélő
+-	Jövő biztos (több évig is bírja)
+-	Gamer gépnek is használható
+-	Videókártya nem szükséges, de nélküle alacson grafikával lehet futtatni játékokat
+
+AMD Ryzen 5:
+2400G: 4 mag/ 8 szál, 3.6/3.9 GHz
+-	Hordozható alacsony grafikájú játékokhoz jó
+2600: 6 mag/ 12 szál, 3.4/3.9 GHz
+-	Nagyon jó árérték arány
+-	Szép grafika
+2600X: 6 mag/ 12 szál, 3.9/4.2 GHz
+
+AMD Ryzen 7:
+2700: 8 mag/ 16 szál, 3.2/4.1 Ghz
+2700X: 8 mag/ 16 szál, 43 GHz
+-	Gyári hűtő
+-	nagyon jó gamer gépnek
+-	Videó szerkesztésre is jó
